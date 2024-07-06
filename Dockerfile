@@ -30,6 +30,3 @@ RUN chmod +x /usr/local/bin/configure-ssh-user
 
 # Start SSH server
 CMD ["/usr/local/bin/configure-ssh-user"]
-
- git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
